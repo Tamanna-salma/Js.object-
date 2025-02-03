@@ -145,3 +145,20 @@ for (const sub of subject) {
     console.log(sub);
 }*/
 
+/*for(let i=0; i<=10; i++){
+// console.log(i);
+
+
+}
+let students = ['mymuna','Habiba','sima','kakoly','taslima'];
+for (let sumaya=0; sumaya<students.length; sumaya++){
+    console.log(students[sumaya]);
+  
+}*/
+// forof loop*****
+
+// let students = ['mymuna','Habiba','sima','kakoly','taslima'];
+// for (const sumaya of students) {
+//     console.log(sumaya);
+    
+// }
